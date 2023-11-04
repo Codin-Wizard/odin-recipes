@@ -1,3 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
 .mat-bilde{
     height: 100px;
+}
+.ingredients{
+    
+}
+li{
+    list-style-type: lower-alpha;
+}
+h1{
+    color: red;
 }
